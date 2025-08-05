@@ -1,0 +1,15 @@
+
+
+Today's Agenda:
+---------------
+1. Data Belongs to Which Location (Country) ?
+   United States 
+
+
+2. What are the States involved in the data ?
+3. Each State Belongs to Which Region ?
+4. Which State is Having High Sales ?
+5. What is the Meaning of the Legend Function ?
+6. How to choose a theme in Power BI ?
+
+
